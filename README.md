@@ -1,5 +1,5 @@
 # LNX-Photo-Meta-Finder
-🔍 Fotoğrafların Gizli Dünyasını Keşfedin: EXIF + GPS + SQLite Destekli Görsel Analiz Uygulamam! 📸🗺️📊
+🧭 Görsellerdeki EXIF ve GPS Verilerini Analiz Eden VB.NET + SQLite Uygulamam 📸💾
 
 Proje Kaynağı : https://www.dropbox.com/scl/fi/go9z37vjzhif6rkhgyuf8/LNX-Photo-Meta-Finder_-_Packages.zip?rlkey=5lt7qkn081y7jr9z8ytlk9xij&st=xzz92bir&dl=0
 
